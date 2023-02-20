@@ -5,7 +5,7 @@
 <img  src="https://github-profile-trophy.vercel.app/?username=KP383&label=Profile%20views&color=0e75b6&style=flat"/>
 
  - 🌍 I'm based in **India**
-- ✉️ Contact Me At *<u><a href=mailto:parthkalathia@gmail.com target="_blank">parthkalathia@gmail.com</a></u>*
+- ✉️ Contact Me At *<u><a href=mailto:kalathiaparth@gmail.com target="_blank">kalathiaparth@gmail.com</a></u>*
 - 🤝 I'm open to Collaborating on **Data science project and machine learning**
 
 <h2>Social</h2>
