@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, I'm Parth Kalathiya</h1>
 
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Scientist | Machine Learning Enginee | Generative AI Researcherr</h3>
 <img src="https://komarev.com/ghpvc/?username=KP383&theme=oldie"/>
 <img  src="https://github-profile-trophy.vercel.app/?username=KP383&label=Profile%20views&color=0e75b6&style=flat"/>
 
