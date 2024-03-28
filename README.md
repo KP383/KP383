@@ -6,7 +6,6 @@
 
  - 🌍 I'm based in **India**
 - ✉️ Contact Me At *<u><a href=mailto:kalathiaparth@gmail.com target="_blank">kalathiaparth@gmail.com</a></u>*
-- 🤝 I'm open to Collaborating on **Data science project and machine learning**
 
 <h2>Social</h2>
 <a href="https://www.github.com/KP383" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
